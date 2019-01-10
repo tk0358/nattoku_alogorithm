@@ -14,7 +14,7 @@ def binary_search(list, item)
       low = mid + 1
     end
   end
-  # puts "#{item}は存在しません"
+  puts "#{item}は存在しません"
   nil
 end
 
